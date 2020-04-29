@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/336928__free-rush__blip3 (1).wav-9585f75983a67eedcda0bc68ea934b54.sample"
+
+[deps]
+
+source_file="res://Assets/336928__free-rush__blip3 (1).wav"
+dest_files=[ "res://.import/336928__free-rush__blip3 (1).wav-9585f75983a67eedcda0bc68ea934b54.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
